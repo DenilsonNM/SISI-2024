@@ -1,6 +1,6 @@
 # Hola :)
 
-## Comandos para iniciar el reporsitorio local
+## Comandos para iniciar el repositorio local:
 
 ```
 git init
