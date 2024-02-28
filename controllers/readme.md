@@ -16,11 +16,8 @@ git status
 ## Comandos para subir cambios de local al repositorio en la rama principal:
 
 ```
-git status
-git add .
-git commit -m ""
-git push -u origin main
-git status 
+git clone https://github.com/DenilsonNM/SISI-2024.git
+
 ```
 
 Usa `git status` para saber los cambios del repositorio.
