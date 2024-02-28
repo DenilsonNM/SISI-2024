@@ -1,4 +1,4 @@
-# Hola :)
+# 8SD - Desarrollo BackEnd
 
 ## Comandos para iniciar el repositorio local con Git:
 
@@ -10,7 +10,20 @@ git status
 git pull origin main
 git status 
 ```
-Siempre usa `git status` para saber los cambios del repositorio.
+
+---
+
+## Comandos para subir cambios de local al repositorio en la rama principal:
+
+```
+git status
+git add .
+git commit -m ""
+git push -u origin main
+git status 
+```
+
+Usa `git status` para saber los cambios del repositorio.
 
 ---
 
