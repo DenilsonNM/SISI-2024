@@ -6,9 +6,6 @@
 git init
 git remote add origin https://github.com/DenilsonNM/SISI-2024.git
 git branch -M main
-git status
-git pull origin main
-git status 
 ```
 
 ---
@@ -20,6 +17,18 @@ git clone https://github.com/DenilsonNM/SISI-2024.git
 ```
 
 Usa `git status` para saber los cambios del repositorio.
+
+---
+
+## Comandos para subir cambios de local al repositorio en la rama principal:
+
+```
+git status
+git add .
+git commit -m ""
+git push -u origin main
+git status 
+```
 
 ---
 
