@@ -13,7 +13,7 @@ CREATE TABLE `detalle_deportes` (
 	`consecutivo` int(3) NOT NULL,
   `dia` varchar(15) NOT NULL,
   `horario` varchar(15) NOT NULL,
-  `lugar` int(3) NOT NULL
+  `lugar` varchar(15) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 ALTER TABLE `deportes`
